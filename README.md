@@ -1,2 +1,3 @@
 # iCoderBS
-This is bootstrap website.
+
+Website created using Bootstap.
